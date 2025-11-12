@@ -1,1 +1,2 @@
-figma/locales/cs/translation.json
+figma/locales/fi/translation.json
+figma/locales/da/translation.json
